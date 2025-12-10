@@ -18,7 +18,3 @@ java Main
 - The Swing interface will launch, allowing you to manage restaurant orders visually.
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-
-✨ هيك بيكون README مرتب، وبيعكس إن المشروع فيه واجهة رسومية باستخدام Swing.
-تحب أعمل نفس التعديل لمشروع Hospital Management System بحيث يظهر إنو فيه Swing GUI كمان؟
